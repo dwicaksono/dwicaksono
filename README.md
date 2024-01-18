@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dimas Novan Arif Wicaksono</h1>
 <h3 align="center">A passionate Frontend Developer, specializing in React.js and Next.js, from Indonesia.</h3>
 
-- 🔭 I’m currently working on **panda-food**
+- 🔭 I am currently building something new for ladies' lifestyle.
 
 - 👨‍💻 All of my projects are available at [https://dwicaksono.vercel.app/](https://dwicaksono.vercel.app/)
 
