@@ -3,7 +3,7 @@
 
 - 🔭 I am currently building something new for ladies' lifestyle.
 
-- 👨‍💻 All of my projects are available at [https://dwicaksono.vercel.app/](https://dwicaksono.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://dimaswicaksono.online/](https://dimaswicaksono.online)
 
 - 📫 How to reach me **novan.top@gmail.com**
 
