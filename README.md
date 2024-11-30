@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dimas Novan Arif Wicaksono</h1>
 <h3 align="center">A passionate Frontend Developer, specializing in React.js and Next.js, from Indonesia.</h3>
 
-- 🔭 I am currently building something new for ladies' lifestyle.
+- 🔭 I am building something new for the hiring team using AI.
 
 - 👨‍💻 All of my projects are available at [https://dimaswicaksono.online/](https://dimaswicaksono.online)
 
