@@ -3,7 +3,7 @@
 
 - 🔭 I am building something new for the hiring team using AI.
 
-- 👨‍💻 All of my projects are available at [https://dimaswicaksono.online/](https://dimaswicaksono.online)
+- 👨‍💻 All of my projects are available at [ HERE ](https://dwicaksono.vercel.app)
 
 - 📫 How to reach me **novan.top@gmail.com**
 
